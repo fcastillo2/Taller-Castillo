@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "nombre": "Fabricación de maquinaria para industria alimenticia",
+        "descripcion": "Fabricación de maquinaria y piezas utilizadas en la producción de alimentos.",
+        "icono": "bi-gear-wide-connected",
+        "destacado": true
+    },
+    {
+        "id": 2,
+        "nombre": "Estructuras en soldadura",
+        "descripcion": "Reparación o creación de piezas de metal, hierro o acero utilizando soldadura.",
+        "icono": "bi-hammer",
+        "destacado": true
+    },
+    {
+        "id": 3,
+        "nombre": "Trabajos especiales que necesitan las empresas",
+        "descripcion": "Fabricación de componentes especiales necesarios para la maquinaria de las empresas.",
+        "icono": "bi-tools",
+        "destacado": false
+    },
+    {
+        "id": 4,
+        "nombre": "Trabajos en materiales plásticos",
+        "descripcion": "Fabricación y reparación de piezas utilizando distintos materiales plásticos.",
+        "icono": "bi-rulers",
+        "destacado": false
+    },
+    {
+        "id": 5,
+        "nombre": "Reparación de piezas en cualquier material",
+        "descripcion": "Reparación y adaptación de piezas en distintos materiales según las necesidades del cliente.",
+        "icono": "bi-wrench-adjustable-circle",
+        "destacado": true
+    }
+]

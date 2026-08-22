@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "imagen": "imagenes/Trabajo1.jpeg",
+        "titulo": "Trabajo de soldadura",
+        "descripcion": "Reparación de un eje mediante un proceso de soldadura especial.",
+        "alt": "Eje reparado mediante un proceso de soldadura especial"
+    },
+    {
+        "id": 2,
+        "imagen": "imagenes/Trabajo2.jpeg",
+        "titulo": "Rodillo de soporte de banda",
+        "descripcion": "Rodillo de acero inoxidable para productos alimenticios.",
+        "alt": "Rodillo de acero inoxidable para soporte de banda"
+    },
+    {
+        "id": 3,
+        "imagen": "imagenes/Trabajo3.jpeg",
+        "titulo": "Tren de rodillos",
+        "descripcion": "Rodillos de acero inoxidable con soporte de banda y tracción para productos alimenticios.",
+        "alt": "Tren de rodillos de acero inoxidable para productos alimenticios"
+    },
+    {
+        "id": 4,
+        "imagen": "imagenes/Trabajo4.jpeg",
+        "titulo": "Reparación de turbinas",
+        "descripcion": "Turbina impulsadora de aire utilizada para mover productos.",
+        "alt": "Turbina impulsadora de aire reparada en el taller"
+    },
+    {
+        "id": 5,
+        "imagen": "imagenes/Trabajo5.jpeg",
+        "titulo": "Piñones en acero inoxidable",
+        "descripcion": "Piñones utilizados en el proceso de plegado de bolsas de empaque.",
+        "alt": "Piñones de acero inoxidable para una máquina de empaque"
+    },
+    {
+        "id": 6,
+        "imagen": "imagenes/Trabajo6.jpeg",
+        "titulo": "Cortadora de cocanas",
+        "descripcion": "Cortadora diseñada para realizar cortes de 80 milímetros.",
+        "alt": "Cortadora fabricada para realizar cortes de 80 milímetros"
+    }
+]
